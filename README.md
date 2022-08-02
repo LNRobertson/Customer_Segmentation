@@ -1,7 +1,38 @@
-capstone3
-==============================
+# Hotel Customer Segmentation
+Insights from three years of clinet booking data.  
+  
+#### -- Project Status: [Active]  
 
-Three years of hotel data will provide insight into customer segments and lifetime value.
+[(Table of Contents)](#table-of-contents)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Ileriayo/markdown-badges/blob/b9bb4c77516e158af331c0a6e1b2f81e8fd22aa1/LICENSE)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+<br>
+
+## Project Intro/Objective
+#### The purpose of this project is to cluster booking data into customer segments based on recency, frequency and value. The goal is to predict the customer lifetime value of using these segments.  
+
+<br>
+
+--------
+Table of Contents
+------------
+- [Project Intro/Objective](#project-introobjective)
+- [Project Organization](#project-organization)
+
+<br>
+Heading examples
+
+- [Project Organization](#project-organization)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+
+
+
+<br>
+
 
 Project Organization
 ------------
@@ -52,6 +83,67 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
-Table of Contents
-------------
+## Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+* k-means clustering
+* XGBoost 
+
+
+## Languages and Technologies
+* Python
+* Pandas, jupyter
+
+<br>
+
+## The Data
+(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+
+<br>
+<br>
+
+# Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+
+    *If using offline data mention that and how they may obtain the data from the froup)*
+    
+3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+4. etc...
+
+*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
+
+5. Follow setup [instructions](Link to file)
+
+<br>
+
+# Featured Notebooks and Deliverables
+* [Notebook/Markdown/Slide Deck Title](link)
+* [Notebook/Markdown/Slide DeckTitle](link)
+* [Blog Post](link)
+
+<br>
+
+
+
+<br>
+
+## Contact
+* Connect with me on Linkedin [here](http://www.linkedin.com/in/lnrobertson).  
+* Personal website coming soon . . .
+
+
+
+
+
+
+
+
+
+
+
+
+
