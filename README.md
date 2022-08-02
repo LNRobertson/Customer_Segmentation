@@ -119,6 +119,7 @@ Project Organization
 <br>
 
 # Getting Started
+[(Table of Contents)](#table-of-contents)
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
@@ -134,8 +135,11 @@ Project Organization
 <br>
 
 # Featured Notebooks and Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
+[(Table of Contents)](#table-of-contents)
+
+* [Modeling Notebooks](link)
+* [Slide Deck Title](link)
+* [Project Report](link)
 
 <br>
 
