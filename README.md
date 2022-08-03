@@ -90,7 +90,7 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
+# Project Description
 ## Methods Used
 * Inferential Statistics
 * Machine Learning
@@ -107,7 +107,11 @@ Project Organization
 <br>
 
 ## The Data
-
+A real-world customer dataset with 31 variables describes
+83,590 instances (customers) from a hotel in Lisbon, Portugal.
+Instances include; customer personal, behavioral,
+demographic, and geographical information for 3 full years.
+The dataset can be found on Kaggle [here](link)
 
 
 <br>
@@ -124,13 +128,16 @@ Project Organization
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
     
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+4. Recreate environment and dependencies using [this file](link)
+    * Using anaconda prompt  . . .
+    * 
+    * 
 
 
 5. Follow setup [instructions](Link to file)
+
 
 <br>
 
