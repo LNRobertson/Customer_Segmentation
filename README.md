@@ -113,6 +113,11 @@ Instances include; customer personal, behavioral,
 demographic, and geographical information for 3 full years.
 The dataset can be found on Kaggle [here](link)
 
+Kaggle dataset origin, domain assumptions and data collection information: 
+
+Nuno Antonio, Ana de Almeida, Luis Nunes. A hotel's customer's personal, behavioral, demographic, and geographic dataset from Lisbon, Portugal (2015-2018). Data in Brief 33(2020)106583, 24(November), 2020. URL: https://www.sciencedirect.com/journal/data-in-brief.
+
+
 
 <br>
 <br>
@@ -150,11 +155,14 @@ The dataset can be found on Kaggle [here](link)
 
 <br>
 
+# Credits
+Kaggle dataset origin, domain assumptions and data collection information: 
 
+Nuno Antonio, Ana de Almeida, Luis Nunes. A hotel's customer's personal, behavioral, demographic, and geographic dataset from Lisbon, Portugal (2015-2018). Data in Brief 33(2020)106583, 24(November), 2020. URL: https://www.sciencedirect.com/journal/data-in-brief.
 
 <br>
 
-## Contact
+# Contact
 * Connect with me on Linkedin [here](http://www.linkedin.com/in/lnrobertson).  
 * Personal website coming soon . . .
 
