@@ -14,7 +14,9 @@ Insights from three years of clinet booking data.
 <br>
 
 ## Project Intro/Objective
-#### The purpose of this project is to cluster booking data into customer segments based on recency, frequency and value. The goal is to predict the customer lifetime value of using these segments.  
+#### The purpose of this project is to cluster customers into segments based on their booking data and recency, frequency and monetary value. The goal is to have a deeper understanding of our top value customers for more targeted marketing, managemnt action, promo triggers etc. We can also use these segments to help predict the if a customer is at risk of churn (NoShow/Cancellation).
+
+#### The primary reason for churn prediction is to retain customers at high risk of loss and take preventiative action to preserve revenue sources and ensure cost of acquisition resources are yielding a solid ROI. 
 
 <br>
 
@@ -97,12 +99,15 @@ Project Organization
 * Data Visualization
 * Predictive Modeling
 * k-means clustering
-* XGBoost 
+* Classification 
 
 
 ## Languages and Technologies
 * Python
-* Pandas, jupyter
+* Pandas
+* Jupyter
+* Numpy 
+* Scikit-learn
 
 <br>
 
@@ -150,9 +155,9 @@ Nuno Antonio, Ana de Almeida, Luis Nunes. A hotel's customer's personal, behavio
 [(Table of Contents)](#table-of-contents)
 
 * [Modeling Notebooks](link)
-* [Slide Deck Title](link)
+* [Taleau Data Story](link)
 * [Project Report](link)
-
+* [Taleau Dashboard]
 <br>
 
 # Credits
