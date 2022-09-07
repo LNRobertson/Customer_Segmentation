@@ -1,4 +1,4 @@
-![Capstone3 Proposal - Customer Segmentation (1280 × 650 px)](https://user-images.githubusercontent.com/56135653/182302000-d1f0f30e-cda8-4654-a6c5-5fc14d6141db.png)
+![Capstone3 Proposal - Customer Segmentation (1280 × 650 px)](https://user-images.githubusercontent.com/56135653/188934900-d9cc4c39-ed45-416a-b241-2ef4f7205f28.png)
 
 # Hotel Customer Segmentation - Attrition Prediction
 Insights from three years of clinet booking data.  
