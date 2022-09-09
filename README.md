@@ -98,7 +98,7 @@ Project Organization
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
-* k-means clustering
+* KMeans clustering
 * Classification 
 
 
