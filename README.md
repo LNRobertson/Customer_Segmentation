@@ -14,9 +14,9 @@ Insights from three years of customer booking data.
 <br>
 
 ## Project Intro/Objective
-#### The purpose of this project is to cluster customers into segments based on their booking data and recency, frequency and monetary value. The goal is to have a deeper understanding of our top value customers for more targeted marketing, managemnt action, promo triggers etc. We can also use these segments to help predict the if a customer is at risk of churn (NoShow/Cancellation).
+#### The purpose of this project is to cluster customers into segments based on their booking data and recency, frequency and monetary value. The goal is to have a deeper understanding of our top value customers for more targeted marketing, managment action, promo triggers etc. We can also use these segments to help predict the if a customer is at risk of attrition (non-returning/lost customer).
 
-#### The primary reason for churn prediction is to retain customers at high risk of loss and take preventiative action to preserve revenue sources and ensure cost of acquisition resources are yielding a solid ROI. 
+#### The primary reason for attrition prediction is to retain customers at high risk of loss and take preventiative action to preserve revenue sources and ensure cost of acquisition resources are yielding a solid ROI. 
 
 <br>
 
