@@ -108,6 +108,8 @@ Project Organization
 * Jupyter
 * Numpy 
 * Scikit-learn
+* PyCaret
+* Tableau
 
 <br>
 
